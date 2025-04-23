@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Cosmetics Store</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Product Categories -->
+    <string name="category_skincare">Skincare</string>
+    <string name="category_makeup">Makeup</string>
+    <string name="category_haircare">Hair Care</string>
+    <string name="category_fragrance">Fragrance</string>
+
+    <!-- Actions -->
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_add">Add</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_archive">Archive</string>
+    <string name="action_unarchive">Unarchive</string>
+    <string name="action_reserve">Reserve</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_save">Save</string>
+    <string name="action_scan">Scan Barcode</string>
+    <string name="action_choose_image">Choose Image</string>
+    <string name="action_take_photo">Take Photo</string>
+
+    <!-- Forms -->
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_product_type">Product Type</string>
+    <string name="hint_product_brand">Brand</string>
+    <string name="hint_product_price">Price</string>
+    <string name="hint_product_barcode">Barcode</string>
+
+    <!-- Messages -->
+    <string name="msg_login_success">Login successful</string>
+    <string name="msg_login_failed">Invalid phone number or password</string>
+    <string name="msg_register_success">Registration successful</string>
+    <string name="msg_register_failed">Registration failed</string>
+    <string name="msg_field_required">This field is required</string>
+    <string name="msg_passwords_not_match">Passwords do not match</string>
+    <string name="msg_phone_exists">This phone number is already registered</string>
+    <string name="msg_reservation_success">Reservation successful</string>
+    <string name="msg_reservation_confirmed">Reservation confirmed</string>
+    <string name="msg_reservation_cancelled">Reservation cancelled</string>
+    <string name="msg_confirm_archive">Are you sure you want to archive this product?</string>
+    <string name="msg_confirm_unarchive">Are you sure you want to unarchive this product?</string>
+    <string name="msg_confirm_delete">Are you sure you want to delete this product? This action cannot be undone.</string>
+    
+    <!-- Titles -->
+    <string name="title_login">Login</string>
+    <string name="title_register">Create Account</string>
+    <string name="title_products">Products</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_search">Search</string>
+    <string name="title_reservations">My Reservations</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_manage_products">Manage Products</string>
+    <string name="title_manage_reservations">Manage Reservations</string>
+    <string name="title_add_product">Add Product</string>
+    <string name="title_edit_product">Edit Product</string>
+</resources>
